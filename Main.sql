@@ -17,3 +17,5 @@ PRIMARY KEY (vloggerID),
 CHECK (length (username) = 6),
 CHECK (expertise IN ("Programming", "Gaming", "Baking", "Crafts", "Makeup", "Clothes"))
 );
+
+/*Excellent work!*/
